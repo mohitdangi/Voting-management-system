@@ -1,4 +1,4 @@
-How to run the Teachers Record Management System (TRMS) Project
+How to run the Teachers Record Management System which is converted into Voting Managment System  Project
 
 1. Download the zip file
 
